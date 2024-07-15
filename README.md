@@ -16,11 +16,23 @@ Bagong Silang High School
 Year: 2019-2021
 
 ## Certification
+[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://www.google.com)
 
 ## Tech Achievement
+#### PowerBI
+[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://www.google.com)
+
+#### SoftEng Design Pattern
+[Builder Pattern](https://github.com/AaronRubinos/Builder-Pattern.git)
+[Observer Pattern](https://github.com/AaronRubinos/ObserverPattern.git)
+[Facade Pattern](https://github.com/AaronRubinos/Facade-Pattern.git)
+[Adapter Pattern](https://github.com/AaronRubinos/Adapter-Pattern.git)
+[Factory Pattern](https://github.com/AaronRubinos/factoryPattern.git)
 
 ## Skill Set
-
 #### Data Visualization Tools:
   * Power BI
 
