@@ -23,7 +23,7 @@ Year: 2019-2021
 #### PowerBI
  * [Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiY2U3ZDcwOGMtYWU0Ny00ZDRmLTkxMjEtMGViNDA1ZDM4ZDBlIiwidCI6ImRmMzU3OGUzLWVmYmItNGMwYS05MTkxLTg4OWM5ZGU0MjY2YyIsImMiOjEwfQ%3D%3D)
  * [Snack Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiYjA2NjIwNDAtNWY2MC00YTBjLWFmNWEtNzFmZDI5MjhiZTgzIiwidCI6ImRmMzU3OGUzLWVmYmItNGMwYS05MTkxLTg4OWM5ZGU0MjY2YyIsImMiOjEwfQ%3D%3D)
- * [I'm an inline-style link](https://www.google.com)
+ * [ProElec 4 Stats](https://app.powerbi.com/view?r=eyJrIjoiYTRkN2RiNTQtYjhkMS00NzkxLWFjNzUtZWVhNjI1YWU2YmViIiwidCI6ImRmMzU3OGUzLWVmYmItNGMwYS05MTkxLTg4OWM5ZGU0MjY2YyIsImMiOjEwfQ%3D%3D)
 
 #### SoftEng Design Pattern
  * [Builder Pattern](https://github.com/AaronRubinos/Builder-Pattern.git)
