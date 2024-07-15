@@ -1,7 +1,8 @@
-![certificate (1)](https://github.com/user-attachments/assets/83599553-0b27-4c1e-adb6-2d143e7df915)### Hi there 👋, My name is Aaron Gil B. Rubinos
+### Hi there 👋, My name is Aaron Gil B. Rubinos
 A computer science student, from New Era University.
 
-## Elementary: ![education (1)](https://github.com/user-attachments/assets/76ee2e20-8de6-40bd-9a42-dcfcab0b8460) Education
+## ![education (2)](https://github.com/user-attachments/assets/a5c99cc3-a3d9-455e-b58e-1950374ad128)
+ Education
 
 Silanganan Elementary school
 Year: 2010-2015
