@@ -3,14 +3,15 @@ A computer science student, from New Era University.
 
 ## ![education (2)](https://github.com/user-attachments/assets/a5c99cc3-a3d9-455e-b58e-1950374ad128) Education
 
+* Elementary:
 Silanganan Elementary school
 Year: 2010-2015
 
-High School:
+* High School:
 Bagong Silang High School
 Year: 2015-2019
 
-Senior High School:
+* Senior High School:
 Bagong Silang High School
 Year: 2019-2021
 
@@ -45,8 +46,9 @@ Year: 2019-2021
 
 
 #### DBMS (Database Management System)
-  * MySQL 
-  * DB2
+  * MySQL ![mysql](https://github.com/user-attachments/assets/f370363e-1e65-4d17-b948-82715c9e18ef)
+  * IBM DB2 ![ibm](https://github.com/user-attachments/assets/9eb7fa7c-1bbc-4331-ae6a-eeda2c1e3406)
+
 
 #### Dev Tools 
   * JasperSoft Studio
