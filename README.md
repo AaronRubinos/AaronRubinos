@@ -32,7 +32,7 @@ Year: 2019-2021
  * [Adapter Pattern](https://github.com/AaronRubinos/Adapter-Pattern.git)
  * [Factory Pattern](https://github.com/AaronRubinos/factoryPattern.git)
 
-## Skill Set
+## ![employee-skills](https://github.com/user-attachments/assets/e9f9f731-2689-486b-afc8-0cc009d51df8) Skill Set
 #### Data Visualization Tools:
   * Power BI
 
