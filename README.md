@@ -1,9 +1,8 @@
-### Hi there 👋, My name is Aaron Gil B. Rubinos
+![certificate (1)](https://github.com/user-attachments/assets/83599553-0b27-4c1e-adb6-2d143e7df915)### Hi there 👋, My name is Aaron Gil B. Rubinos
 A computer science student, from New Era University.
 
-## ![education](https://github.com/user-attachments/assets/1072f1ed-0e9d-4f5f-835d-f54e7782154c) Education
+## Elementary: ![education (1)](https://github.com/user-attachments/assets/76ee2e20-8de6-40bd-9a42-dcfcab0b8460) Education
 
-Elementary:
 Silanganan Elementary school
 Year: 2010-2015
 
@@ -15,11 +14,11 @@ Senior High School:
 Bagong Silang High School
 Year: 2019-2021
 
-##  ![certificate](https://github.com/user-attachments/assets/5fd64cdc-4d65-4a16-a9e9-ecc33966abc6) Certification
+## ![certificate (1)](https://github.com/user-attachments/assets/7a68abc2-e9b9-451c-ad4e-5550183fffcc) Certification
  * [SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/86628781831f4ff98bee240654dc812c)
  * [Oracle Cloud Infrastructure](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A383EA9786B43C18DF3E8A2774F2A3960012194934EF26C03ED45815F45C094E)
 
-## ![achievement](https://github.com/user-attachments/assets/e11452fc-c8fd-4b62-ab9e-02785d1f2354) Tech Achievement
+## ![achievement (1)](https://github.com/user-attachments/assets/9746d1e8-9c5c-401a-8ac5-28888a63cd2b) Tech Achievement
 #### PowerBI
  * [Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiY2U3ZDcwOGMtYWU0Ny00ZDRmLTkxMjEtMGViNDA1ZDM4ZDBlIiwidCI6ImRmMzU3OGUzLWVmYmItNGMwYS05MTkxLTg4OWM5ZGU0MjY2YyIsImMiOjEwfQ%3D%3D)
  * [Snack Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiYjA2NjIwNDAtNWY2MC00YTBjLWFmNWEtNzFmZDI5MjhiZTgzIiwidCI6ImRmMzU3OGUzLWVmYmItNGMwYS05MTkxLTg4OWM5ZGU0MjY2YyIsImMiOjEwfQ%3D%3D)
@@ -32,7 +31,7 @@ Year: 2019-2021
  * [Adapter Pattern](https://github.com/AaronRubinos/Adapter-Pattern.git)
  * [Factory Pattern](https://github.com/AaronRubinos/factoryPattern.git)
 
-## ![employee-skills](https://github.com/user-attachments/assets/e9f9f731-2689-486b-afc8-0cc009d51df8) Skill Set
+## ![skillset](https://github.com/user-attachments/assets/b4290b9f-57d9-46e8-b795-be53b38cb999) Skill Set
 #### Data Visualization Tools:
   * Power BI
 
