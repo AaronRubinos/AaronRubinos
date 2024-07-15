@@ -1,7 +1,7 @@
-### Hi there 👋, My name is Aaron Gil B. Rubinos
+![image](https://github.com/user-attachments/assets/14245c41-3aae-4848-83b7-836943ebf85d)### Hi there 👋, My name is Aaron Gil B. Rubinos
 A computer science student, from New Era University.
 
-## Education
+## ![image](https://github.com/user-attachments/assets/fb35d900-8d17-40c7-86aa-582b904bfbfa) Education
 
 Elementary:
 Silanganan Elementary school
@@ -15,11 +15,11 @@ Senior High School:
 Bagong Silang High School
 Year: 2019-2021
 
-## Certification
+## ![image](https://github.com/user-attachments/assets/0c05332d-43cb-49cd-9091-24adf2adc003) Certification
  * [SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/86628781831f4ff98bee240654dc812c)
  * [Oracle Cloud Infrastructure](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A383EA9786B43C18DF3E8A2774F2A3960012194934EF26C03ED45815F45C094E)
 
-## Tech Achievement
+## ![image](https://github.com/user-attachments/assets/06292453-d15f-47cd-a4f6-7e93ca91c3d4) Tech Achievement
 #### PowerBI
  * [Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiY2U3ZDcwOGMtYWU0Ny00ZDRmLTkxMjEtMGViNDA1ZDM4ZDBlIiwidCI6ImRmMzU3OGUzLWVmYmItNGMwYS05MTkxLTg4OWM5ZGU0MjY2YyIsImMiOjEwfQ%3D%3D)
  * [Snack Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiYjA2NjIwNDAtNWY2MC00YTBjLWFmNWEtNzFmZDI5MjhiZTgzIiwidCI6ImRmMzU3OGUzLWVmYmItNGMwYS05MTkxLTg4OWM5ZGU0MjY2YyIsImMiOjEwfQ%3D%3D)
