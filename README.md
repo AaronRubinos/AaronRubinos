@@ -16,14 +16,14 @@ Bagong Silang High School
 Year: 2019-2021
 
 ## Certification
-[I'm an inline-style link](https://www.google.com)
-[I'm an inline-style link](https://www.google.com)
+ * [I'm an inline-style link](https://www.google.com)
+ * [I'm an inline-style link](https://www.google.com)
 
 ## Tech Achievement
 #### PowerBI
-[I'm an inline-style link](https://www.google.com)
-[I'm an inline-style link](https://www.google.com)
-[I'm an inline-style link](https://www.google.com)
+ * [I'm an inline-style link](https://www.google.com)
+ * [I'm an inline-style link](https://www.google.com)
+ * [I'm an inline-style link](https://www.google.com)
 
 #### SoftEng Design Pattern
  * [Builder Pattern](https://github.com/AaronRubinos/Builder-Pattern.git)
