@@ -58,8 +58,6 @@ Year: 2019-2021
   * Bootstrap ![bootstrap](https://github.com/user-attachments/assets/c82d4c5b-1ad4-4483-a39c-6c147b2605e4)
   * Php ![php](https://github.com/user-attachments/assets/52f4129e-a9b8-4e16-8ad9-bc3b51e25843)
 
-
-
 #### DBMS (Database Management System)
   * MySQL ![mysql](https://github.com/user-attachments/assets/f370363e-1e65-4d17-b948-82715c9e18ef)
   * IBM DB2 ![ibm](https://github.com/user-attachments/assets/9eb7fa7c-1bbc-4331-ae6a-eeda2c1e3406)
@@ -71,7 +69,8 @@ Year: 2019-2021
 #### Dev Tools 
   * JasperSoft Studio
   * Lucidchart
-  * Eclipse
+  * GitHub
+  * Visual Studio Code
 <!--
 **AaronRubinos/AaronRubinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
