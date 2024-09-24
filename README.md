@@ -16,7 +16,7 @@ Bagong Silang High School
 Year: 2019-2021
 
 ## ![certificate (2)](https://github.com/user-attachments/assets/78e94dd2-eac7-4d9f-a05c-2702e42b3084) Certification
- * [SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/86628781831f4ff98bee240654dc812c)
+ * [SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/86628781831f4ff98bee240654dc812c) <br>
 ![1](https://github.com/user-attachments/assets/64bafc2a-373f-4382-90c4-6ab6cb2f915f)
 
  * [Oracle Cloud Infrastructure](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A383EA9786B43C18DF3E8A2774F2A3960012194934EF26C03ED45815F45C094E)
