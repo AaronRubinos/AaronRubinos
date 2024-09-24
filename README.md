@@ -25,9 +25,14 @@ Year: 2019-2021
  * [Oracle Cloud Data Mangement](https://catalog-education.oracle.com/pls/certview/sharebadge?id=16ED4C53D8D9FE6C82ED402007D54800CF5E6CC4867455CEB3C2A2C0A7FFAC5D) <br>
 ![3](https://github.com/user-attachments/assets/5e117129-4048-40c8-a028-1a4e9fa18f5d)
 
- * [Data Analytics Essentials](https://www.credly.com/badges/30a4b503-0cd7-4d7f-8fd3-06c7a60f6a71/public_url).
- * [Introduction to Data Science](https://www.credly.com/badges/417b72a8-5fc9-4aff-b1d2-7fc1fbd62feb/public_url).
- * [AI Fundamentals with IBM SkillsBuild](https://www.credly.com/badges/487bb0bc-9b63-4719-b513-cca4270ad031/public_url).
+ * [Data Analytics Essentials](https://www.credly.com/badges/30a4b503-0cd7-4d7f-8fd3-06c7a60f6a71/public_url). <br>
+![6](https://github.com/user-attachments/assets/57d565f7-74ca-4c7c-bef9-9fc555f6a714)
+ 
+ * [Introduction to Data Science](https://www.credly.com/badges/417b72a8-5fc9-4aff-b1d2-7fc1fbd62feb/public_url). <br>
+![5](https://github.com/user-attachments/assets/d1b74f79-d31f-433f-b1bd-c67014f9b3a6)
+
+ * [AI Fundamentals with IBM SkillsBuild](https://www.credly.com/badges/487bb0bc-9b63-4719-b513-cca4270ad031/public_url). <br>
+![4](https://github.com/user-attachments/assets/e96821d1-ed1e-40ba-9512-2b396a3cf6f8)
 
 ## ![achievement (2)](https://github.com/user-attachments/assets/c7fa9798-9b9a-4a67-a57e-d57225110432) Tech Achievement
 #### PowerBI
