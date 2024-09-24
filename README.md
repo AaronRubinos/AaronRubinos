@@ -41,8 +41,8 @@ Year: 2019-2021
   * Python ![python (1)](https://github.com/user-attachments/assets/65ea9157-3789-4a74-9719-9850f1cf3d85)
   * Bootstrap ![bootstrap](https://github.com/user-attachments/assets/c82d4c5b-1ad4-4483-a39c-6c147b2605e4)
   * Php ![php](https://github.com/user-attachments/assets/52f4129e-a9b8-4e16-8ad9-bc3b51e25843)
-  * C# ![c-sharp](https://github.com/user-attachments/assets/4b79bf42-e14c-4c40-a486-e151b86cbe64)
-  * Javascript ![java-script](https://github.com/user-attachments/assets/6740725c-acde-4dee-86c9-cff30967356c)
+  * C++ ![c-](https://github.com/user-attachments/assets/0a4d46e9-2f2d-407b-899f-029619784e76)
+
 
 
 #### DBMS (Database Management System)
