@@ -18,6 +18,7 @@ Year: 2019-2021
 ## ![certificate (2)](https://github.com/user-attachments/assets/78e94dd2-eac7-4d9f-a05c-2702e42b3084) Certification
  * [SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/86628781831f4ff98bee240654dc812c)
  * [Oracle Cloud Infrastructure](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A383EA9786B43C18DF3E8A2774F2A3960012194934EF26C03ED45815F45C094E)
+ * [Oracle Cloud Data Mangement](https://catalog-education.oracle.com/pls/certview/sharebadge?id=16ED4C53D8D9FE6C82ED402007D54800CF5E6CC4867455CEB3C2A2C0A7FFAC5D)
 
 ## ![achievement (2)](https://github.com/user-attachments/assets/c7fa9798-9b9a-4a67-a57e-d57225110432) Tech Achievement
 #### PowerBI
