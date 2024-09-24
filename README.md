@@ -5,7 +5,7 @@ A computer science student, from New Era University.
 
 * Elementary:
 Silanganan Elementary school
-Year: 2010-2015
+Year: 2008-2015
 
 * High School:
 Bagong Silang High School
