@@ -19,6 +19,9 @@ Year: 2019-2021
  * [SQL and Relational Databases](https://courses.cognitiveclass.ai/certificates/86628781831f4ff98bee240654dc812c)
  * [Oracle Cloud Infrastructure](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A383EA9786B43C18DF3E8A2774F2A3960012194934EF26C03ED45815F45C094E)
  * [Oracle Cloud Data Mangement](https://catalog-education.oracle.com/pls/certview/sharebadge?id=16ED4C53D8D9FE6C82ED402007D54800CF5E6CC4867455CEB3C2A2C0A7FFAC5D)
+ * [Data Analytics Essentials](https://www.credly.com/badges/30a4b503-0cd7-4d7f-8fd3-06c7a60f6a71/public_url).
+ * [Introduction to Data Science](https://www.credly.com/badges/417b72a8-5fc9-4aff-b1d2-7fc1fbd62feb/public_url).
+ * [AI Fundamentals with IBM SkillsBuild](https://www.credly.com/badges/487bb0bc-9b63-4719-b513-cca4270ad031/public_url).
 
 ## ![achievement (2)](https://github.com/user-attachments/assets/c7fa9798-9b9a-4a67-a57e-d57225110432) Tech Achievement
 #### PowerBI
